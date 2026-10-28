@@ -1,7 +1,7 @@
 {
   "name": "rapmac-core",
   "version": "3.0.0",
-  "description": "Headless RapMac Flowchart Interpreter, Binary .rap Parser & CLI Engine",
+  "description": "Native Raptor Flowchart Interpreter, Binary .rap Parser & Desktop Engine for macOS",
   "main": "index.js",
   "bin": {
     "rapmac": "./cli.js",
@@ -13,9 +13,15 @@
     "eval": "node cli.js eval"
   },
   "keywords": [
+    "raptor",
+    "raptor-macos",
+    "raptor-for-mac",
+    "raptor-flowchart",
     "rapmac",
+    "macos",
+    "apple-silicon",
     "flowchart",
-    "interpreter",
+    "flowchart-interpreter",
     "ast",
     "parser",
     "cli",

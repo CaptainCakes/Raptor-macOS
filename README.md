@@ -1,17 +1,17 @@
-# RapMac Core Flowchart Engine & CLI
+# RapMac — Raptor Flowchart for macOS
 
-> **Headless Flowchart Interpreter, AST Runner, Binary `.rap` Parser & Command-Line Interface**
+> **The native macOS IDE, headless interpreter, binary `.rap` parser, and CLI engine for RAPTOR flowcharts on Apple Silicon (M1–M4) & Intel Macs.**
 
 [![Node.js](https://img.shields.io/badge/Node.js-%3E%3D16.0.0-339933?logo=node.js)](https://nodejs.org)
 [![Tests](https://img.shields.io/badge/Tests-100%25%20Passing-brightgreen)](test_core_engine.js)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Platform](https://img.shields.io/badge/Platform-macOS%20%7C%20Linux%20%7C%20Windows-blue)](https://github.com/CaptainCakes/Raptor-macOS)
+[![Platform](https://img.shields.io/badge/Platform-macOS%20(Apple%20Silicon%20%26%20Intel)-blue)](https://github.com/CaptainCakes/Raptor-macOS)
 
 ---
 
-## Looking for the RapMac Desktop Application for macOS?
+## 📥 Download Raptor for macOS (RapMac Desktop App)
 
-If you want the visual desktop application with flowchart canvas editing, MacBook Touch Bar controls, and the **Google Gemini AI Assistant**, download the pre-built installer:
+Looking for a native **Raptor Flowchart app for Mac**? RapMac runs directly on macOS with no Wine, Parallels, or virtual machines required. It features native flowchart canvas editing, 100% compatibility with official `.rap` files, MacBook Touch Bar controls, and the **Google Gemini AI Assistant**:
 
 👉 **[Download RapMac for macOS (`.dmg`)](https://github.com/CaptainCakes/Raptor-macOS/releases)** (visit the [Releases](https://github.com/CaptainCakes/Raptor-macOS/releases) tab)
 
